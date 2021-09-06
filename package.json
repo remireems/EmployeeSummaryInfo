@@ -1,0 +1,24 @@
+{
+  "name": "employeesummaryinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remireems/EmployeeSummaryInfo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remireems/EmployeeSummaryInfo/issues"
+  },
+  "homepage": "https://github.com/remireems/EmployeeSummaryInfo#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.0"
+  }
+}
