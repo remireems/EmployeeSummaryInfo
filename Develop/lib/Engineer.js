@@ -1,4 +1,4 @@
-//Engineer class constructor
+//Engineer class constructor and inherits from Employee class
 const Employee = require('./Employee')
 
 class Engineer extends Employee {
