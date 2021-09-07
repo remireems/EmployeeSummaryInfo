@@ -109,7 +109,7 @@ const menu = () => {
           createEmployee()
           break
         case 'Finish':
-          writeFile('./output/teamInfo.html', render(team), err => {
+          writeFile('./output/team.html', render(team), err => {
             if (err) { console.log(err) }
             else { console.log('Team created!') }
           })
