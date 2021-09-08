@@ -11,5 +11,5 @@ Demo<br/>
 ![Demo 2](./screenshots/demo2.png)
 ![Demo 3](./screenshots/demo3.png)<br/>
 
-team.html file example<br/>
+Output team.html file example<br/>
 ![Demo 4](./screenshots/demo4.png)
