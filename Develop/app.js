@@ -10,7 +10,7 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./lib/htmlRenderer");
 
-// create an empty array to input employees info
+// create an empty array to input employees' info
 const team = []
 
 // function that prompts user a question specified to interns
