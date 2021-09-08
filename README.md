@@ -6,3 +6,4 @@ This is an employee team generator command line application. The app will prompt
 [Employee team generator 2](./screenshots/ESI2.png)
 
 ## Video
+[Demo video](https://drive.google.com/file/d/1q0bINSquX19DKm3MrqtwfgNXmybCkS_L/preview)
