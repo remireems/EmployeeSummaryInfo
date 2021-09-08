@@ -6,8 +6,10 @@ Employee team webpage example
 ![Employee team generator 1](./screenshots/ESI1.png)
 ![Employee team generator 2](./screenshots/ESI2.png)
 
-Demo
+Demo<br/>
 ![Demo 1](./screenshots/demo1.png)
 ![Demo 2](./screenshots/demo2.png)
-![Demo 3](./screenshots/demo3.png)
+![Demo 3](./screenshots/demo3.png)<br/>
+
+team.html file example<br/>
 ![Demo 4](./screenshots/demo4.png)
